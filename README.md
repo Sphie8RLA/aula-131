@@ -1,0 +1,1 @@
+detecção de objetos
